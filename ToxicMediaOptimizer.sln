@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToxicMediaOptimizer", "ToxicMediaOptimizer\ToxicMediaOptimizer.csproj", "{B9DA4D8A-AE47-4E46-BF40-F8B188089161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9DA4D8A-AE47-4E46-BF40-F8B188089161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DA4D8A-AE47-4E46-BF40-F8B188089161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DA4D8A-AE47-4E46-BF40-F8B188089161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DA4D8A-AE47-4E46-BF40-F8B188089161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F08ED19-5D7F-477C-BDE3-8E4281C3C9B6}
+	EndGlobalSection
+EndGlobal
